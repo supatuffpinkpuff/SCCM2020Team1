@@ -1,0 +1,157 @@
+num,diagnosisstring
+9177,neurologic|disorders of vasculature|stroke
+8438,neurologic|disorders of vasculature|stroke|ischemic stroke
+5811,neurologic|disorders of vasculature|stroke|hemorrhagic stroke
+3699,neurologic|trauma - CNS|intracranial injury|with subarachnoid hemorrhage
+3653,neurologic|trauma - CNS|intracranial injury|with subdural hematoma
+3267,neurologic|disorders of vasculature|cerebral subdural hematoma
+3256,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage
+2504,neurologic|post-neurosurgery|post craniotomy|for hemorrhage
+2498,neurologic|post-neurosurgery|post craniotomy
+2274,neurologic|post-neurosurgery|post craniotomy|for tumor
+1845,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive
+1740,neurologic|disorders of vasculature|stroke|ischemic stroke|left sided
+1685,neurologic|trauma - CNS|intracranial injury|with intracerebral hemorrhage
+1670,neurologic|disorders of vasculature|stroke|ischemic stroke|right sided
+1571,neurologic|post-neurosurgery|post neurointerventional procedure
+1478,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|right sided
+1422,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|left sided
+1345,neurologic|disorders of vasculature|TIA
+1277,neurologic|post-neurosurgery|post spinal surgery|cervical
+1211,neurologic|disorders of vasculature|stroke|ischemic stroke|cardioembolic
+1148,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from ruptured berry aneurysm
+1108,neurologic|post-neurosurgery|post spinal surgery|lumbar
+1106,neurologic|trauma - CNS|intracranial injury|with depressed mental status
+1074,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|with hydrocephalus
+896,neurologic|trauma - CNS|intracranial injury
+886,neurologic|trauma - CNS|intracranial injury|with cerebral contusion
+866,neurologic|trauma - CNS|depressed level of consciousness
+858,neurologic|post-neurosurgery|post spinal surgery|thoracic
+849,neurologic|post-neurosurgery|post craniectomy
+835,neurologic|disorders of vasculature|cerebral subdural hematoma|secondary to trauma
+807,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|transformation of ischemic stroke
+656,neurologic|trauma - CNS|intracranial injury|with intraventricular hemorrhage
+653,neurologic|disorders of vasculature|increased intracranial pressure
+629,neurologic|post-neurosurgery|post neurointerventional procedure|embolization
+580,neurologic|trauma - CNS|fracture of skull
+538,neurologic|post-neurosurgery|post spinal surgery
+535,neurologic|disorders of vasculature|stroke|ischemic stroke|cortical
+481,neurologic|trauma - CNS|intracranial injury|with diffuse axonal injury
+467,neurologic|post-neurosurgery|post shunting procedure
+413,neurologic|post-neurosurgery|post craniotomy|for aneurysm
+398,neurologic|disorders of vasculature|cerebral subdural hematoma|secondary to anticoagulation
+393,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|with vasospasm
+385,neurologic|trauma - CNS|intracranial injury|with herniation syndrome
+380,neurologic|trauma - CNS|intracranial injury|with loss of consciousness 1-24 hours
+371,neurologic|post-neurosurgery|post cartoid endarterectomy
+364,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from ruptured AV malformation
+355,neurologic|trauma - CNS|intracranial injury|with epidural hematoma
+348,neurologic|trauma - CNS|intracranial injury|loss of consciousness <= 60 mins
+314,neurologic|trauma - CNS|intracranial injury|with edema
+313,neurologic|disorders of vasculature|stroke|ischemic stroke|atherosclerotic thrombosis
+313,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|cerebellar
+308,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|thalamus
+286,neurologic|disorders of vasculature|stroke|ischemic stroke|dissection of cervicocerebral arteries
+284,neurologic|disorders of vasculature|stroke|ischemic stroke|brainstem
+279,neurologic|trauma - CNS|spinal cord injury|cervical|C1-C4
+278,neurologic|trauma - CNS|increased intracranial pressure
+248,neurologic|trauma - CNS|intracranial injury|no loss of consciousness
+247,neurologic|trauma - CNS|intracranial injury|with loss of consciousness of unknown duration
+245,neurologic|trauma - CNS|spinal cord injury|cervical
+244,neurologic|trauma - CNS|spinal cord injury|cervical|C5-C7
+239,neurologic|disorders of vasculature|stroke|ischemic stroke|atheroembolic
+209,neurologic|trauma - CNS|intracranial injury|with concussion
+189,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|cortical
+184,neurologic|post-neurosurgery|post craniotomy|for aneurysm|unruptured
+182,neurologic|trauma - CNS|coma
+180,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome
+171,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome
+167,neurologic|trauma - CNS|spinal cord injury|bowel/bladder dysfunction
+167,neurologic|post-neurosurgery|post craniotomy|for AVM
+166,neurologic|post-neurosurgery|post craniotomy|for aneurysm|ruptured
+155,neurologic|post-neurosurgery|post craniotomy|for abscess
+147,neurologic|trauma - CNS|intracranial injury|with loss of consciousness >24 hours
+144,neurologic|disorders of vasculature|stroke|ischemic stroke|lacunar infarct
+143,neurologic|trauma - CNS|spinal cord injury
+141,neurologic|post-neurosurgery|post craniotomy|skull base procedure
+140,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|brainstem
+137,neurologic|trauma - CNS|fracture of skull|vault
+136,neurologic|trauma - CNS|seizures
+136,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|internal capsule
+126,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|from amyloid angiopathy
+123,neurologic|trauma - CNS|intracranial injury|with increased ICP
+120,neurologic|trauma - CNS|spinal cord injury|with autonomic dysreflexia
+119,neurologic|trauma - CNS|spinal cord injury|thoracic|T1-T6
+118,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|traumatic
+113,neurologic|disorders of vasculature|cerebral epidural hematoma
+108,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|uncal
+107,neurologic|trauma - CNS|spinal cord injury|quadriplegia-partial
+105,neurologic|trauma - CNS|fracture of skull|base|closed
+101,neurologic|trauma - CNS|spinal cord injury|paraplegia-complete
+99,neurologic|disorders of vasculature|intracranial venous thrombosis
+98,neurologic|disorders of vasculature|stroke|ischemic stroke|perioperative
+98,neurologic|post-neurosurgery|post functional procedure
+96,neurologic|trauma - CNS|spinal cord injury|thoracic
+94,neurologic|disorders of vasculature|cerebral epidural hematoma|secondary to trauma
+92,neurologic|trauma - CNS|spinal cord injury|quadriplegia-complete
+89,neurologic|disorders of vasculature|increased intracranial pressure|with reflex hypertension
+88,neurologic|trauma - CNS|spinal cord injury|lumbar
+68,neurologic|trauma - CNS|spinal cord injury|thoracic|T7-T12
+58,neurologic|trauma - CNS|spinal cord injury|spinal shock
+57,neurologic|post-neurosurgery|post functional procedure|for pain
+53,neurologic|post-neurosurgery|post functional procedure|for movement disorder
+52,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|into pre-existent CNS mass
+51,neurologic|trauma - CNS|fracture of skull|vault|open
+48,neurologic|post-neurosurgery|post functional procedure|for epilepsy
+46,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|pons
+41,neurologic|trauma - CNS|fracture of skull|vault|closed|with subarachnoid hemorrhage
+36,neurologic|trauma - CNS|fracture of skull|vault|closed|with subdural hematoma
+35,neurologic|trauma - CNS|spinal cord injury|paraplegia-partial
+32,neurologic|disorders of vasculature|increased intracranial pressure|with reflex bradycardia
+31,neurologic|disorders of vasculature|TIA|atherosclerotic occlusion
+31,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|postoperative
+31,neurologic|trauma - CNS|fracture of skull|vault|closed
+30,neurologic|disorders of vasculature|TIA|anterior circulation
+29,neurologic|trauma - CNS|fracture of skull|base
+24,neurologic|disorders of vasculature|TIA|posterior circulation
+23,neurologic|trauma - CNS|spinal cord injury|cauda equina syndrome
+22,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from cavernous angioma
+22,neurologic|disorders of vasculature|intracranial venous thrombosis|superior sagittal sinus
+21,neurologic|trauma - CNS|fracture of skull|base|closed|with subarachnoid hemorrhage
+20,"neurologic|disorders of vasculature|stroke|ischemic stroke|vasospasm, including cocaine-induced"
+18,neurologic|disorders of vasculature|intracranial venous thrombosis|cavernous sinus
+17,neurologic|trauma - CNS|intracranial injury|with normal radiological study
+17,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|uncal
+16,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|brainstem
+16,neurologic|disorders of vasculature|cerebral epidural hematoma|secondary to anticoagulation
+14,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|brainstem
+13,neurologic|disorders of vasculature|intracranial venous thrombosis|cortical vein
+12,neurologic|trauma - CNS|fracture of skull|base|closed|with subdural hematoma
+11,neurologic|disorders of vasculature|spinal cord compression
+11,neurologic|disorders of vasculature|intracranial venous thrombosis|lateral sinus
+10,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|central
+10,neurologic|trauma - CNS|increased intracranial pressure|with reflex bradycardia
+9,neurologic|disorders of vasculature|spinal epidural hematoma
+8,neurologic|disorders of vasculature|TIA|secondary to hypotension
+8,neurologic|disorders of vasculature|TIA|atheroembolic
+7,neurologic|trauma - CNS|spinal cord injury|hemiplegia-partial
+7,neurologic|trauma - CNS|spinal cord injury|respiratory impairment
+6,neurologic|disorders of vasculature|TIA|cardioembolic
+6,neurologic|disorders of vasculature|stroke|ischemic stroke|from cortical venous thrombosis
+5,neurologic|trauma - CNS|fracture of skull|vault|closed|with intracerebral hemorrhage
+4,neurologic|trauma - CNS|fracture of skull|base|closed|with epidural hematoma
+4,neurologic|disorders of vasculature|spinal epidural hematoma|secondary to trauma
+4,neurologic|trauma - CNS|fracture of skull|vault|closed|with epidural hematoma
+3,neurologic|trauma - CNS|fracture of skull|vault|open|with intracerebral hemorrhage
+3,neurologic|trauma - CNS|fracture of skull|vault|open|depressed
+2,neurologic|trauma - CNS|fracture of skull|vault|open|with subarachnoid hemorrhage
+2,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|central
+2,neurologic|trauma - CNS|fracture of skull|vault|closed|depressed
+2,neurologic|trauma - CNS|fracture of skull|base|closed|with intracerebral hemorrhage
+2,neurologic|disorders of vasculature|increased intracranial pressure|with papilledema
+1,neurologic|trauma - CNS|fracture of skull|base|open|with subarachnoid hemorrhage
+1,neurologic|trauma - CNS|increased intracranial pressure|with reflex hypertension
+1,neurologic|disorders of vasculature|spinal epidural hematoma|secondary to anticoagulation
+1,neurologic|trauma - CNS|intracranial injury|with loss of consciousness >24 hours|without return to pre-existing conscious level
+1,neurologic|trauma - CNS|fracture of skull|base|open|with subdural hematoma
+1,neurologic|trauma - CNS|fracture of skull|base|closed|with rhinorrhea

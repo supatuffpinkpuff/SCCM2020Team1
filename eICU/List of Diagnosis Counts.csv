@@ -1,0 +1,406 @@
+f0_,diagnosisstring
+41034,neurologic|altered mental status / pain|change in mental status
+26689,neurologic|altered mental status / pain|pain
+17028,neurologic|seizures|seizures
+14336,neurologic|altered mental status / pain|encephalopathy
+9647,neurologic|altered mental status / pain|depression
+9413,neurologic|altered mental status / pain|agitation
+9177,neurologic|disorders of vasculature|stroke
+8438,neurologic|disorders of vasculature|stroke|ischemic stroke
+8226,neurologic|altered mental status / pain|encephalopathy|metabolic
+8050,neurologic|altered mental status / pain|drug withdrawal syndrome|alcohol
+7732,neurologic|altered mental status / pain|sedated
+7710,neurologic|altered mental status / pain|delirium
+6129,neurologic|altered mental status / pain|anxiety
+6023,neurologic|altered mental status / pain|dementia
+5811,neurologic|disorders of vasculature|stroke|hemorrhagic stroke
+5369,neurologic|altered mental status / pain|obtundation
+3969,neurologic|altered mental status / pain|pain|moderate
+3699,neurologic|trauma - CNS|intracranial injury|with subarachnoid hemorrhage
+3653,neurologic|trauma - CNS|intracranial injury|with subdural hematoma
+3267,neurologic|disorders of vasculature|cerebral subdural hematoma
+3256,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage
+3247,neurologic|altered mental status / pain|encephalopathy|hepatic
+3194,neurologic|altered mental status / pain|bipolar disorder
+2715,neurologic|altered mental status / pain|encephalopathy|post-anoxic
+2626,neurologic|altered mental status / pain|schizophrenia
+2504,neurologic|post-neurosurgery|post craniotomy|for hemorrhage
+2498,neurologic|post-neurosurgery|post craniotomy
+2473,neurologic|altered mental status / pain|coma
+2274,neurologic|post-neurosurgery|post craniotomy|for tumor
+2149,neurologic|seizures|seizures|status epilepticus
+2148,neurologic|altered mental status / pain|encephalopathy|toxic
+2035,neurologic|misc|headache
+2002,neurologic|altered mental status / pain|pain|severe
+1845,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive
+1747,neurologic|seizures|seizures|new onset
+1740,neurologic|disorders of vasculature|stroke|ischemic stroke|left sided
+1705,neurologic|altered mental status / pain|pain|mild
+1685,neurologic|trauma - CNS|intracranial injury|with intracerebral hemorrhage
+1670,neurologic|disorders of vasculature|stroke|ischemic stroke|right sided
+1648,neurologic|altered mental status / pain|drug withdrawal syndrome
+1645,neurologic|seizures|seizures|generalized tonic -clonic
+1625,neurologic|misc|Parkinson's disease
+1571,neurologic|post-neurosurgery|post neurointerventional procedure
+1563,neurologic|altered mental status / pain|agitation|severe
+1557,neurologic|CNS mass lesions|brain tumor
+1478,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|right sided
+1422,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|left sided
+1345,neurologic|disorders of vasculature|TIA
+1277,neurologic|post-neurosurgery|post spinal surgery|cervical
+1211,neurologic|disorders of vasculature|stroke|ischemic stroke|cardioembolic
+1206,neurologic|altered mental status / pain|persistent vegetative state
+1148,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from ruptured berry aneurysm
+1113,neurologic|altered mental status / pain|dementia|Alzheimer's disease
+1108,neurologic|post-neurosurgery|post spinal surgery|lumbar
+1106,neurologic|trauma - CNS|intracranial injury|with depressed mental status
+1105,neurologic|altered mental status / pain|suicidal ideation
+1096,neurologic|misc|neuropathy
+1074,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|with hydrocephalus
+1040,neurologic|altered mental status / pain|agitation|moderate
+930,neurologic|seizures|seizures|from Etoh withdrawal
+896,neurologic|trauma - CNS|intracranial injury
+886,neurologic|trauma - CNS|intracranial injury|with cerebral contusion
+877,neurologic|neuromuscular disorders|motor neuropathy|multiple sclerosis
+866,neurologic|trauma - CNS|depressed level of consciousness
+864,neurologic|seizures|seizures|suspected
+858,neurologic|post-neurosurgery|post spinal surgery|thoracic
+849,neurologic|post-neurosurgery|post craniectomy
+835,neurologic|disorders of vasculature|cerebral subdural hematoma|secondary to trauma
+817,neurologic|altered mental status / pain|sedated|responsive
+807,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|transformation of ischemic stroke
+755,neurologic|seizures|seizures|generalized
+743,neurologic|altered mental status / pain|stupor
+719,neurologic|neuromuscular disorders|motor neuropathy
+660,neurologic|infectious disease of nervous system|meningitis
+656,neurologic|trauma - CNS|intracranial injury|with intraventricular hemorrhage
+653,neurologic|disorders of vasculature|increased intracranial pressure
+653,neurologic|altered mental status / pain|sedated|unresponsive
+641,neurologic|altered mental status / pain|drug withdrawal syndrome|narcotic
+633,neurologic|altered mental status / pain|depression|moderate
+631,neurologic|altered mental status / pain|depression|severe
+629,neurologic|post-neurosurgery|post neurointerventional procedure|embolization
+624,neurologic|neuromuscular disorders|myopathy|rhabdomyolysis
+618,neurologic|CNS mass lesions|cerebral mass of unknown etiology
+611,neurologic|CNS mass lesions|increased intracranial pressure|from hydrocephalus
+597,neurologic|disorders of the spinal cord and peripheral nervous system|quadriplegia-complete
+589,neurologic|disorders of the spinal cord and peripheral nervous system|quadriplegia-partial
+580,neurologic|trauma - CNS|fracture of skull
+557,neurologic|CNS mass lesions|brain tumor|metastatic brain tumor
+538,neurologic|altered mental status / pain|agitation|mild
+538,neurologic|post-neurosurgery|post spinal surgery
+535,neurologic|disorders of vasculature|stroke|ischemic stroke|cortical
+523,neurologic|altered mental status / pain|depression|mild
+508,"neurologic|altered mental status / pain|dementia|dementia, unknown etiology"
+501,neurologic|misc|headache|severe
+486,neurologic|seizures|seizures|etiology unknown
+481,neurologic|trauma - CNS|intracranial injury|with diffuse axonal injury
+477,neurologic|neuromuscular disorders|motor neuropathy|amyotrophic lateral sclerosis
+467,neurologic|post-neurosurgery|post shunting procedure
+441,neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis
+438,neurologic|misc|headache|hydrocephalus
+413,neurologic|post-neurosurgery|post craniotomy|for aneurysm
+406,neurologic|seizures|seizures|primary seizure disorder
+398,neurologic|disorders of vasculature|cerebral subdural hematoma|secondary to anticoagulation
+393,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|with vasospasm
+392,neurologic|disorders of the spinal cord and peripheral nervous system|paraplegia-complete
+385,neurologic|trauma - CNS|intracranial injury|with herniation syndrome
+383,neurologic|neuromuscular disorders|motor neuropathy|Guillain-Barre syndrome
+383,neurologic|CNS mass lesions|increased intracranial pressure|from cerebral edema
+383,neurologic|disorders of the spinal cord and peripheral nervous system|spinal cord compression
+382,neurologic|disorders of the spinal cord and peripheral nervous system|paraplegia-partial
+380,neurologic|trauma - CNS|intracranial injury|with loss of consciousness 1-24 hours
+371,neurologic|misc|headache|migraine
+371,neurologic|post-neurosurgery|post cartoid endarterectomy
+364,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from ruptured AV malformation
+355,neurologic|trauma - CNS|intracranial injury|with epidural hematoma
+348,neurologic|trauma - CNS|intracranial injury|loss of consciousness <= 60 mins
+337,neurologic|CNS mass lesions|brain tumor|meningioma
+330,neurologic|CNS mass lesions|brain herniation syndrome
+314,neurologic|trauma - CNS|intracranial injury|with edema
+313,neurologic|disorders of vasculature|stroke|ischemic stroke|atherosclerotic thrombosis
+313,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|cerebellar
+312,neurologic|CNS mass lesions|brain tumor|glioblastoma multiforme
+308,neurologic|seizures|seizures|focal
+308,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|thalamus
+301,neurologic|misc|myoclonus
+286,neurologic|disorders of vasculature|stroke|ischemic stroke|dissection of cervicocerebral arteries
+285,neurologic|neuromuscular disorders|neuropathy
+284,neurologic|disorders of vasculature|stroke|ischemic stroke|brainstem
+279,neurologic|trauma - CNS|spinal cord injury|cervical|C1-C4
+278,neurologic|trauma - CNS|increased intracranial pressure
+277,neurologic|altered mental status / pain|drug withdrawal syndrome|benzodiazepine
+273,neurologic|neuromuscular disorders|sensory neuropathy
+258,"neurologic|CNS mass lesions|brain tumor|brain tumor, type unknown"
+248,neurologic|trauma - CNS|intracranial injury|no loss of consciousness
+247,neurologic|trauma - CNS|intracranial injury|with loss of consciousness of unknown duration
+245,neurologic|trauma - CNS|spinal cord injury|cervical
+244,neurologic|trauma - CNS|spinal cord injury|cervical|C5-C7
+239,neurologic|disorders of vasculature|stroke|ischemic stroke|atheroembolic
+223,neurologic|CNS mass lesions|cerebral mass of unknown etiology|likely tumor
+210,neurologic|infectious disease of nervous system|meningitis|acute
+209,neurologic|trauma - CNS|intracranial injury|with concussion
+207,neurologic|neuromuscular disorders|myopathy|muscular dystrophy
+207,neurologic|seizures|seizures|partial with secondary generalization
+206,neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis|with respiratory involvement
+203,neurologic|seizures|seizures|from ischemia/infarction
+201,neurologic|infectious disease of nervous system|encephalitis
+189,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|cortical
+186,neurologic|neuromuscular disorders|motor neuropathy|polyneuropathy of critical illness
+185,neurologic|CNS mass lesions|brain tumor|with hydrocephalus
+184,neurologic|post-neurosurgery|post craniotomy|for aneurysm|unruptured
+183,neurologic|altered mental status / pain|dementia|vascular dementia
+183,neurologic|altered mental status / pain|drug withdrawal syndrome|nicotine
+182,neurologic|trauma - CNS|coma
+180,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome
+179,neurologic|seizures|seizures|partial complex
+178,neurologic|seizures|seizures|from tumor
+175,neurologic|seizures|seizures|from metabolic cause
+171,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome
+169,neurologic|CNS mass lesions|increased intracranial pressure
+167,neurologic|trauma - CNS|spinal cord injury|bowel/bladder dysfunction
+167,neurologic|post-neurosurgery|post craniotomy|for AVM
+166,neurologic|neuromuscular disorders|myopathy|myopathy of critical illness
+166,neurologic|post-neurosurgery|post craniotomy|for aneurysm|ruptured
+165,neurologic|disorders of the spinal cord and peripheral nervous system|spinal cord compression|secondary to disc
+155,neurologic|post-neurosurgery|post craniotomy|for abscess
+153,neurologic|CNS mass lesions|spinal tumor
+152,neurologic|neuromuscular disorders|sensory neuropathy|with numbness
+147,neurologic|trauma - CNS|intracranial injury|with loss of consciousness >24 hours
+144,neurologic|disorders of vasculature|stroke|ischemic stroke|lacunar infarct
+144,neurologic|seizures|seizures|from drug withdrawal (other than Etoh)
+143,neurologic|trauma - CNS|spinal cord injury
+141,neurologic|post-neurosurgery|post craniotomy|skull base procedure
+140,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|brainstem
+140,neurologic|CNS mass lesions|brain tumor|suspected
+139,neurologic|CNS mass lesions|spinal cord compression
+137,neurologic|trauma - CNS|fracture of skull|vault
+136,neurologic|trauma - CNS|seizures
+136,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|internal capsule
+135,neurologic|infectious disease of nervous system|meningitis|after neurosurgical procedure
+135,neurologic|neuromuscular disorders|myopathy
+131,neurologic|neuromuscular disorders|motor neuropathy|Guillain-Barre syndrome|with respiratory involvement
+126,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|from amyloid angiopathy
+125,neurologic|seizures|seizures|focal/partial
+123,"neurologic|neuromuscular disorders|motor neuropathy|myopathy, including dystrophy"
+123,neurologic|trauma - CNS|intracranial injury|with increased ICP
+121,neurologic|neuromuscular disorders|sensory neuropathy|with pain
+120,neurologic|misc|neuropathy|polyneuropathy
+120,neurologic|trauma - CNS|spinal cord injury|with autonomic dysreflexia
+119,neurologic|trauma - CNS|spinal cord injury|thoracic|T1-T6
+118,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|traumatic
+113,neurologic|disorders of vasculature|cerebral epidural hematoma
+108,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|uncal
+107,neurologic|trauma - CNS|spinal cord injury|quadriplegia-partial
+105,neurologic|trauma - CNS|fracture of skull|base|closed
+102,neurologic|CNS mass lesions|brain abscess
+101,neurologic|trauma - CNS|spinal cord injury|paraplegia-complete
+100,neurologic|neuromuscular disorders|neuropathy|from diabetes
+100,neurologic|neuromuscular disorders|sensory neuropathy|with paresthesias
+99,neurologic|CNS mass lesions|cerebral mass of unknown etiology|likely hemorrhage
+99,neurologic|disorders of vasculature|intracranial venous thrombosis
+98,neurologic|disorders of vasculature|stroke|ischemic stroke|perioperative
+98,neurologic|post-neurosurgery|post functional procedure
+96,neurologic|trauma - CNS|spinal cord injury|thoracic
+95,neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis|with myasthenic crisis
+94,neurologic|disorders of vasculature|cerebral epidural hematoma|secondary to trauma
+94,neurologic|seizures|seizures|from drug toxicity
+93,neurologic|seizures|seizures|non-convulsive
+92,neurologic|trauma - CNS|spinal cord injury|quadriplegia-complete
+91,neurologic|infectious disease of nervous system|meningitis|acute|bacterial
+89,neurologic|infectious disease of nervous system|encephalitis|etiology undefined
+89,neurologic|disorders of vasculature|increased intracranial pressure|with reflex hypertension
+88,neurologic|trauma - CNS|spinal cord injury|lumbar
+84,neurologic|CNS mass lesions|brain herniation syndrome|uncal
+80,neurologic|CNS mass lesions|spinal cord compression|secondary to epidural abscess
+80,neurologic|infectious disease of nervous system|meningitis|chronic|non-infectious|multiple sclerosis
+78,neurologic|CNS mass lesions|brain abscess|brain / cerebral
+76,neurologic|misc|neuroleptic malignant syndrome
+76,neurologic|CNS mass lesions|spinal cord compression|secondary to metastasis
+75,neurologic|infectious disease of nervous system|encephalitis|viral|herpes
+74,neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis|with exacerbation
+73,neurologic|altered mental status / pain|catatonia
+68,neurologic|infectious disease of nervous system|CNS abscess|spinal epidural
+68,neurologic|trauma - CNS|spinal cord injury|thoracic|T7-T12
+66,neurologic|neuromuscular disorders|motor neuropathy|post-polio syndrome
+65,neurologic|disorders of the spinal cord and peripheral nervous system|spinal tumor
+63,neurologic|disorders of the spinal cord and peripheral nervous system|spinal cord compression|secondary to metastasis
+63,neurologic|disorders of the spinal cord and peripheral nervous system|hemiplegia-complete
+63,neurologic|infectious disease of nervous system|CNS abscess
+62,neurologic|CNS mass lesions|brain tumor|CNS lymphoma
+58,neurologic|trauma - CNS|spinal cord injury|spinal shock
+57,neurologic|post-neurosurgery|post functional procedure|for pain
+54,neurologic|infectious disease of nervous system|CNS abscess|brain
+53,neurologic|post-neurosurgery|post functional procedure|for movement disorder
+52,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|into pre-existent CNS mass
+51,neurologic|trauma - CNS|fracture of skull|vault|open
+49,neurologic|neuromuscular disorders|motor neuropathy|Guillain-Barre syndrome|with autonomic dysfunction
+49,neurologic|disorders of the spinal cord and peripheral nervous system|hemiplegia-partial
+49,neurologic|disorders of the spinal cord and peripheral nervous system|spinal cord compression|secondary to epidural abscess
+49,neurologic|misc|headache|hydrocephalus|congenital
+48,neurologic|post-neurosurgery|post functional procedure|for epilepsy
+47,neurologic|disorders of the spinal cord and peripheral nervous system|transverse myelitis
+46,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|hypertensive|pons
+45,neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis|with bulbar involvement
+44,neurologic|disorders of the spinal cord and peripheral nervous system|spinal cord compression|secondary to epidural hematoma
+43,neurologic|infectious disease of nervous system|encephalitis|systemic lupus erythematosus
+42,neurologic|CNS mass lesions|brain herniation syndrome|central
+41,neurologic|seizures|seizures|non-epileptic
+41,neurologic|infectious disease of nervous system|encephalitis|bacterial
+41,neurologic|trauma - CNS|fracture of skull|vault|closed|with subarachnoid hemorrhage
+39,neurologic|seizures|seizures|from infection
+38,neurologic|misc|headache|hydrocephalus|normal pressure
+36,neurologic|infectious disease of nervous system|encephalitis|fungal
+36,neurologic|trauma - CNS|fracture of skull|vault|closed|with subdural hematoma
+36,neurologic|infectious disease of nervous system|encephalitis|viral
+35,neurologic|trauma - CNS|spinal cord injury|paraplegia-partial
+35,neurologic|CNS mass lesions|cerebral mass of unknown etiology|likely abscess
+35,neurologic|infectious disease of nervous system|CNS abscess|spinal epidural|lumbar
+33,neurologic|disorders of the spinal cord and peripheral nervous system|syringomyelia
+32,neurologic|disorders of vasculature|increased intracranial pressure|with reflex bradycardia
+32,neurologic|CNS mass lesions|brain herniation syndrome|brainstem
+31,neurologic|disorders of vasculature|TIA|atherosclerotic occlusion
+31,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|postoperative
+31,neurologic|trauma - CNS|fracture of skull|vault|closed
+30,neurologic|neuromuscular disorders|myopathy|malignant hyperthermia
+30,neurologic|infectious disease of nervous system|encephalitis|viral|CMV
+30,neurologic|disorders of vasculature|TIA|anterior circulation
+30,neurologic|misc|headache|hydrocephalus|with herniation
+29,neurologic|trauma - CNS|fracture of skull|base
+29,neurologic|neuromuscular disorders|sensory neuropathy|trigeminal neuralgia
+29,neurologic|misc|decompression syndrome
+27,neurologic|neuromuscular disorders|motor neuropathy|Guillain-Barre syndrome|with bulbar involvement
+27,neurologic|infectious disease of nervous system|meningitis|acute|viral
+27,neurologic|neuromuscular disorders|motor neuropathy|chronic inflammatory demyelinating neuropathy
+26,neurologic|infectious disease of nervous system|meningitis|chronic|non-infectious|metabolic encephalopathy
+25,neurologic|altered mental status / pain|drug withdrawal syndrome|barbiturate
+24,neurologic|infectious disease of nervous system|meningitis|acute|aseptic
+24,neurologic|infectious disease of nervous system|meningitis|community-acquired
+24,neurologic|disorders of vasculature|TIA|posterior circulation
+23,neurologic|infectious disease of nervous system|meningitis|chronic|non-infectious|vasculitis
+23,neurologic|infectious disease of nervous system|mycotic aneurysm
+23,neurologic|trauma - CNS|spinal cord injury|cauda equina syndrome
+23,neurologic|neuromuscular disorders|neuropathy|toxic
+22,neurologic|infectious disease of nervous system|meningitis|acute|fungal
+22,"neurologic|CNS mass lesions|brain tumor|astrocytoma, high-grade"
+22,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|subarachnoid hemorrhage|from cavernous angioma
+22,neurologic|disorders of vasculature|intracranial venous thrombosis|superior sagittal sinus
+22,neurologic|CNS mass lesions|brain abscess|suspected
+21,neurologic|CNS mass lesions|spinal cord compression|secondary to epidural hematoma
+21,neurologic|infectious disease of nervous system|CNS abscess|spinal epidural|cervical
+21,neurologic|trauma - CNS|fracture of skull|base|closed|with subarachnoid hemorrhage
+21,neurologic|disorders of the spinal cord and peripheral nervous system|infantile cerebral palsy
+20,neurologic|neuromuscular disorders|neuropathy|from alcohol use
+20,"neurologic|disorders of vasculature|stroke|ischemic stroke|vasospasm, including cocaine-induced"
+18,neurologic|CNS mass lesions|increased intracranial pressure|from intraaxial mass
+18,neurologic|disorders of vasculature|intracranial venous thrombosis|cavernous sinus
+17,neurologic|trauma - CNS|intracranial injury|with normal radiological study
+17,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|uncal
+16,neurologic|CNS mass lesions|spinal cord compression|secondary to disc
+16,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|brainstem
+16,neurologic|infectious disease of nervous system|meningitis|chronic
+16,neurologic|misc|neurocutaneous syndrome
+16,neurologic|disorders of vasculature|cerebral epidural hematoma|secondary to anticoagulation
+15,neurologic|infectious disease of nervous system|CNS abscess|spinal epidural|thoracic
+14,neurologic|disorders of the spinal cord and peripheral nervous system|subacute combined degeneration of the spinal cord
+14,neurologic|misc|neuropathy|polyneuritis
+14,neurologic|infectious disease of nervous system|encephalitis|viral|suspected
+14,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|brainstem
+13,neurologic|infectious disease of nervous system|meningitis|after trauma to skull base
+13,neurologic|disorders of vasculature|intracranial venous thrombosis|cortical vein
+13,neurologic|sensory organ|ear/mastoid disorder|suppurative otitis media
+12,neurologic|trauma - CNS|fracture of skull|base|closed|with subdural hematoma
+11,neurologic|disorders of vasculature|spinal cord compression
+11,neurologic|CNS mass lesions|brain abscess|bacterial
+11,neurologic|infectious disease of nervous system|CNS abscess|spinal epidural|with spinal cord dysfunction
+11,neurologic|disorders of vasculature|intracranial venous thrombosis|lateral sinus
+10,neurologic|neuromuscular disorders|myopathy|periodic paralysis
+10,neurologic|trauma - CNS|increased intracranial pressure|herniation syndrome|central
+10,neurologic|trauma - CNS|increased intracranial pressure|with reflex bradycardia
+10,neurologic|infectious disease of nervous system|meningitis|acute|bacterial|gram negative rod
+9,neurologic|infectious disease of nervous system|meningitis|chronic|fungal
+9,neurologic|disorders of vasculature|spinal epidural hematoma
+9,neurologic|altered mental status / pain|intellectual disability
+9,neurologic|altered mental status / pain|intellectual disability|mental retardation
+9,neurologic|infectious disease of nervous system|meningitis|acute|bacterial|pneumococcus
+8,neurologic|neuromuscular disorders|myopathy|polymyositis
+8,neurologic|disorders of vasculature|TIA|secondary to hypotension
+8,neurologic|disorders of vasculature|TIA|atheroembolic
+8,neurologic|infectious disease of nervous system|CNS abscess|organism known|bacterial
+8,neurologic|infectious disease of nervous system|CNS abscess|with herniation syndrome|uncal
+8,neurologic|disorders of the spinal cord and peripheral nervous system|tethered cord
+8,neurologic|altered mental status / pain|paranoia
+8,neurologic|altered mental status / pain|conduct disturbance disorder
+8,neurologic|infectious disease of nervous system|suppurative intracranial phlebitis
+8,neurologic|CNS mass lesions|increased intracranial pressure|pseudotumor cerebri
+7,neurologic|infectious disease of nervous system|encephalitis|viral|West Nile virus
+7,neurologic|infectious disease of nervous system|meningitis|chronic|non-infectious
+7,"neurologic|CNS mass lesions|brain tumor|astrocytoma, low-grade"
+7,neurologic|trauma - CNS|spinal cord injury|hemiplegia-partial
+7,neurologic|neuromuscular disorders|motor neuropathy|neuromuscular blocker associated motor neuropathy
+7,neurologic|CNS mass lesions|brain herniation syndrome|with reflex hypertension
+7,neurologic|altered mental status / pain|personality disorder
+7,neurologic|trauma - CNS|spinal cord injury|respiratory impairment
+6,neurologic|neuromuscular disorders|myopathy|toxic myopathy due to alcohol
+6,neurologic|disorders of vasculature|TIA|cardioembolic
+6,neurologic|infectious disease of nervous system|meningitis|acute|staph aureus
+6,neurologic|disorders of vasculature|stroke|ischemic stroke|from cortical venous thrombosis
+5,neurologic|misc|headache|hydrocephalus|post meningitis
+5,neurologic|trauma - CNS|fracture of skull|vault|closed|with intracerebral hemorrhage
+5,neurologic|sensory organ|eye/adnexa disorder|visual disturbance
+5,neurologic|disorders of the spinal cord and peripheral nervous system|tetanus
+5,neurologic|infectious disease of nervous system|CNS abscess|organism known
+5,neurologic|CNS mass lesions|increased intracranial pressure|pseudotumor cerebri|without papilledema
+4,neurologic|seizures|seizures|petit mal
+4,neurologic|CNS mass lesions|brain abscess|cerebellar
+4,neurologic|CNS mass lesions|brain herniation syndrome|with reflex bradycardia
+4,neurologic|trauma - CNS|fracture of skull|base|closed|with epidural hematoma
+4,neurologic|altered mental status / pain|intellectual disability|mental retardation|moderate
+4,neurologic|disorders of vasculature|spinal epidural hematoma|secondary to trauma
+4,neurologic|trauma - CNS|fracture of skull|vault|closed|with epidural hematoma
+4,neurologic|CNS mass lesions|brain abscess|toxoplasmosis
+3,neurologic|altered mental status / pain|dementia|prion-associated dementia
+3,neurologic|neuromuscular disorders|myopathy|neuromuscular blocker associated myopathy
+3,neurologic|misc|headache|due to multiple sclerosis
+3,neurologic|altered mental status / pain|nonorganic psychoses
+3,neurologic|sensory organ|ear/mastoid disorder|hearing loss
+3,neurologic|altered mental status / pain|nonorganic psychoses|unspecified
+3,neurologic|CNS mass lesions|brain abscess|neurocysticercosis
+3,neurologic|misc|headache|cluster
+3,neurologic|misc|cerebral degeneration
+3,neurologic|trauma - CNS|fracture of skull|vault|open|with intracerebral hemorrhage
+3,neurologic|trauma - CNS|fracture of skull|vault|open|depressed
+2,neurologic|trauma - CNS|fracture of skull|vault|open|with subarachnoid hemorrhage
+2,neurologic|neuromuscular disorders|myopathy|congenital myopathy
+2,neurologic|infectious disease of nervous system|CNS abscess|cerebral subdural
+2,neurologic|disorders of vasculature|increased intracranial pressure|with herniation syndrome|central
+2,neurologic|trauma - CNS|fracture of skull|vault|closed|depressed
+2,neurologic|trauma - CNS|fracture of skull|base|closed|with intracerebral hemorrhage
+2,neurologic|altered mental status / pain|specific developmental delays
+2,neurologic|altered mental status / pain|paranoia|delusional disorder
+2,neurologic|altered mental status / pain|neurotic disorder
+2,neurologic|sensory organ|eye/adnexa disorder|glaucoma
+2,neurologic|CNS mass lesions|brain tumor|ependymoma
+2,neurologic|infectious disease of nervous system|meningitis|acute|bacterial|meningococcus
+2,neurologic|disorders of vasculature|increased intracranial pressure|with papilledema
+1,neurologic|trauma - CNS|fracture of skull|base|open|with subarachnoid hemorrhage
+1,neurologic|sensory organ|ear/mastoid disorder|other ear disorder
+1,neurologic|altered mental status / pain|intellectual disability|mental retardation|severe
+1,neurologic|altered mental status / pain|psychoses of childhood
+1,neurologic|trauma - CNS|increased intracranial pressure|with reflex hypertension
+1,neurologic|disorders of vasculature|spinal epidural hematoma|secondary to anticoagulation
+1,neurologic|neuromuscular disorders|motor neuropathy|Eaton-Lambert
+1,neurologic|altered mental status / pain|dementia|HIV dementia
+1,neurologic|CNS mass lesions|brain tumor|oligodendroglioma
+1,neurologic|CNS mass lesions|brain tumor|with carcinomatous meningitis
+1,neurologic|trauma - CNS|intracranial injury|with loss of consciousness >24 hours|without return to pre-existing conscious level
+1,neurologic|disorders of the spinal cord and peripheral nervous system|nerve root/plexus disorder
+1,neurologic|sensory organ|eye/adnexa disorder|blindness and low vision
+1,neurologic|infectious disease of nervous system|CNS abscess|organism unknown
+1,neurologic|trauma - CNS|fracture of skull|base|open|with subdural hematoma
+1,neurologic|CNS mass lesions|brain abscess|cerebral subdural
+1,neurologic|infectious disease of nervous system|meningitis|acute|bacterial|listeria
+1,neurologic|neuromuscular disorders|motor neuropathy|steroid-induced motor neuropathy
+1,neurologic|CNS mass lesions|increased intracranial pressure|with papilledema
+1,neurologic|trauma - CNS|fracture of skull|base|closed|with rhinorrhea
+1,neurologic|sensory organ|ear/mastoid disorder|mastoiditis
