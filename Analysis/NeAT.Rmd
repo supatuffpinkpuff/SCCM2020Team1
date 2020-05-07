@@ -1,0 +1,97 @@
+---
+title: "NeAT"
+author: "Sicheng Hao"
+date: "5/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(data.table)
+library(dplyr)
+library(ggplot2)
+library(gdata)
+library(readxl)
+library(pROC)
+library(geepack)
+library(tableone)
+```
+
+# Data
+
+```{r}
+data<-fread("data.csv")
+data<-data%>%filter(bleeding==0,vascularDisorders==T)
+data<-data%>%filter(is.finite(hgb))#remove
+```
+
+```{r}
+tableOne <-
+  CreateTableOne(vars = c("postSurgery","Trauma","age.group","gender","apachescore","hgb","hgb.group","gcs","verbal","motor"                    ,"eyes","Vasopressor","is.aki","is.mi","actualventdays","vent","actualhospitalmortality","actualhospitallos","actualicumortality","actualiculos"), 
+                 strata = c("transfusion"), 
+                 data = data, 
+                 factorVars = c("Vasopressor"))
+tableOne
+```
+
+
+```{r}
+tableTwo <-
+  CreateTableOne(vars = c("postSurgery","Trauma","age.group","gender","apachescore","hgb","hgb.group","gcs","verbal","motor"                    ,"eyes","Vasopressor","is.aki","is.mi","actualventdays","vent","actualhospitalmortality","actualhospitallos","actualicumortality","actualiculos"), 
+                 strata = c("transfusion.group"), 
+                 data = data, 
+                 factorVars = c("Vasopressor"))
+tableTwo
+```
+
+
+
+## Model logistic
+```{r}
+rg<-glm(data = data, factor(actualhospitalmortality)~
+          transfusion*hgb.group+gender+Vasopressor+apachescore+vent+is.aki+is.mi+gcs+gender+age,
+        family = "binomial")
+summary(rg)
+
+```
+
+
+```{r}
+rg1<-glm(data = data%>%filter(transfusion==1), factor(actualhospitalmortality)~
+          transfusion.group*hgb.group+gender+Vasopressor+apachescore+vent+is.aki+is.mi+gcs+gender+age,
+        family = "binomial")
+summary(rg1)
+
+```
+
+
+<!-- ## Model MSM -->
+<!-- ```{r} -->
+
+<!-- fit<-glm(data = data, transfusion~hgb.group+gender+Vasopressor+apachescore+vent+is.aki+is.mi+gcs+gender+age,family = "binomial") -->
+<!-- summary(fit) -->
+
+<!-- pd <- predict(fit, type = "response") -->
+<!-- numer.fit <- glm(transfusion ~ 1, family = binomial(), data = data) -->
+<!-- summary(numer.fit) -->
+
+<!-- pn<- predict(numer.fit, type = "response") -->
+<!-- data$stable.weights <- -->
+<!--   ifelse(data$transfusion == 0, ((1 - pn) / (1 - pd)), -->
+<!--          (pn / pd)) -->
+
+<!-- #Model  -->
+<!-- msm.w <- geeglm( -->
+<!--   factor(actualhospitalmortality) ~ transfusion*hgb.group, -->
+<!--   data = data, -->
+<!--   weights = stable.weights, -->
+<!--   id = rownames(data), -->
+<!--   corstr = "independence" -->
+<!-- ) -->
+
+<!-- beta <- coef(msm.w) -->
+<!-- SE <- coef(summary(msm.w))[, 2] -->
+<!-- lcl <- beta - qnorm(0.975) * SE -->
+<!-- ucl <- beta + qnorm(0.975) * SE -->
+<!-- cbind(beta, lcl, ucl)#Not significant -->
+
+<!-- ``` -->
